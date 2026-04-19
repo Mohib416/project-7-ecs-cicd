@@ -168,8 +168,8 @@ After that:
 ## 🏗️ Architecture
 
 User → ECS (Fargate) → Container  
-                     ↑  
-                   ECR
+                      ```↑  
+                   ECR ```
 
 ---
 
