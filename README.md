@@ -165,6 +165,12 @@ After that:
 ✅ Website worked successfully
 
 ---
+## 🏗️ Architecture
+
+User → ECS (Fargate) → Container  
+                     ↑  
+                   ECR
+---
 
 ## 📸 Screenshots
 
