@@ -167,7 +167,9 @@ After that:
 ---
 ## 🏗️ Architecture
 
-## 🏗️ Architecture
+User → ECS (Fargate) → Container
+                     ↑
+                   ECR
 
 ---
 
