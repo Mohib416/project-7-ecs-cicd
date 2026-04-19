@@ -1,0 +1,12 @@
+{
+  "name": "project-7-ecs-cicd",
+  "version": "1.0.0",
+  "description": "AWS ECS CI/CD project with Docker and GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
