@@ -165,10 +165,11 @@ After that:
 ✅ Website worked successfully
 
 ---
-## 🏗️ Architecture
+## 🏗️ Architecture and Diagram
 
 User → ECS (Fargate) → Container  
 ECR → provides the container image
+![Architecture](diagrams/IMG_9690.png)
 ---
 
 ## 📸 Screenshots
