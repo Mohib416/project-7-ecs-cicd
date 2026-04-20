@@ -169,6 +169,7 @@ After that:
 
 User → ECS (Fargate) → Container  
 ECR → provides the container image
+
 ![Architecture](diagrams/IMG_9690.png)
 ---
 
